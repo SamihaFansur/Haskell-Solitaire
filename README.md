@@ -4,11 +4,11 @@ This Haskell program simulates games of Eight-off solitaire, aiming to achieve d
 
 ## Author
 
-- **Samiha Fansur**
+**Samiha Fansur**
 
 ## Last Modified
 
-- **December 9, 2021**
+**December 9, 2021**
 
 ## Overview
 
